@@ -9,6 +9,7 @@ Please refer to https://voodooi2c.github.io/#Installation/Installation.
 * ELAN1000
 * ELAN0000
 * ELAN0100
+* ELAN0626 (Polling-mode)
 * ELAN0651
 
 *Note: Newer versions of the ELAN touchpads supports another protocol called Precision Touchpad (PTP). Touchpads implementing this protocol need to use VoodooI2CHID. An example of a ELAN based touchpad PTP is the ELAN1200.*
